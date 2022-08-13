@@ -24,9 +24,6 @@ font-weight: 580;
     padding: 16px 0px 12px;
     font-size: 36px;
 }
-.list-product {
-
-}
 .product {
     padding: 20px;
     border: 1px solid #c9c9c9;
@@ -37,7 +34,7 @@ font-weight: 580;
 .product-img {
     border-radius: 7px 7px 0 0;
     margin-bottom: 20px;
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 .product-conten {
@@ -63,6 +60,7 @@ font-weight: 580;
   display: inline-block;
 }
 .footer {
-
+    border-top: 2px solid rebeccapurple;
+    padding: 20px 0px 40px;
 }
 
