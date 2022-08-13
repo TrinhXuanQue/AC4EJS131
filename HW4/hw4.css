@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margin: 0;
+    margin: 5px;
     box-sizing: border-box;
 }
 img {
@@ -39,25 +39,29 @@ font-weight: 580;
 }
 .product-conten {
     color: rebeccapurple;
-  align-items: start;
+    align-items: start;
+    font-size: 26px;
 }
 .product-title {
     padding: 0.25em;
-  background-color: #eddbff;
-  border-radius: 4px;
+    background-color: #eddbff;
+    border-radius: 4px;
 }
 
 .product-vp {
     color: #757575;
-  line-height: 1.5;
+    line-height: 1.5;
+    font-size: 18px;
 }
 .bbb {
     text-decoration: none;
-  background-color: rebeccapurple;
-  color: #fff;
-  padding: 0.5em 1em;
-  border-radius: 4px;
-  display: inline-block;
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 8px 14px;
+    border-style: none;
+}
+.ccc {
+    
 }
 .footer {
     border-top: 2px solid rebeccapurple;
