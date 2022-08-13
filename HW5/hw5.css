@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    height: 46px;
+    background-color: black;
+
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: aliceblue;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 12px;
+}
+
