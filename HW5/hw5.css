@@ -3,21 +3,39 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+li {
+    display: inline;
+}
 #header {
-    height: 46px;
+    position: fixed;
     background-color: black;
-
+    width: 100%;
+    height: 60px;
+    padding: 0px 10px;
+    top: 0%;
+    left: 0%;
 }
-
-#nav li {
-    display: inline-block;
+#nav {
+    display: flex;
+    flex-wrap: nowrap;
 }
-
-#nav li a {
-    color: aliceblue;
-    text-decoration: none;
-    line-height: 46px;
-    padding: 0 12px;
+.ss1 {
+    order: 1;
+    position: relative;
+    display: block;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
 }
-
+.logo {
+    order: 1;
+    position: relative;
+    display: block;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}

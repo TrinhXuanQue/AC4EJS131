@@ -29,7 +29,6 @@ font-weight: 580;
     border: 1px solid #c9c9c9;
     border-radius: 7px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
-    
 }
 .product-img {
     border-radius: 7px 7px 0 0;
@@ -59,9 +58,6 @@ font-weight: 580;
     color: #fff;
     padding: 8px 14px;
     border-style: none;
-}
-.ccc {
-    
 }
 .footer {
     border-top: 2px solid rebeccapurple;
